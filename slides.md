@@ -28,23 +28,6 @@ __TODO__
 ]
 
 
-
----
-
-### Marlborough School
-
-* Independent girls' school, located in Los Angeles
-
-* Middle School (7-9) and Upper School (10-12)
-
-* ~500 total students
-
-
-.center[
-<img src="pix/marlborough.jpg" width="500px">
-]
-
-
 ---
 
 ### Who Am I?
@@ -75,7 +58,7 @@ __Dr. Darren Kessner__
 __Marlborough School__
 ]
 
-- Program Head of Computer Science and Software Innovation (11 years)
+- Program Head of Computer Science and Software Innovation (12 years)
 
 <br/>
 .center[
@@ -87,7 +70,24 @@ __Ellison Medical Institute__
 ]
 ]
 
+
 ---
+
+### Marlborough School
+
+* Independent girls' school, located in Los Angeles
+
+* Middle School (7-9) and Upper School (10-12)
+
+* ~500 total students
+
+
+.center[
+<img src="pix/marlborough.jpg" width="500px">
+]
+
+---
+
 
 
 ### Computer Science Program
@@ -98,6 +98,8 @@ interdisciplinary
 - Low floor, high ceiling
 
 - Open source software, open educational resources
+
+- Part of the Center for Entrepreneurship and Innovation (CEI)
 
 
 <br/><br/>
@@ -130,6 +132,52 @@ interdisciplinary
     - Engineering and Entrepreneurship (Python, C)
 
     - Honors Research (Python, R)
+
+---
+
+### 3 Paths in Computer Science
+
+- Java (Application development)
+    - Why?
+        - Android phones (e.g. FIRST FTC Robotics)
+        - AP Computer Science A  
+    - Entry point:  Processing
+
+- Javascript (Web development)
+    - Why?
+        - 
+    - Entry point:  p5.js
+
+- Python (Data analysis)
+    - Why?
+        - easiest syntax
+        - commonly used in scientific data analysis and AI research
+    - Entry point: Notebooks
+
+---
+
+### Processing
+
+    - Entry point:  Processing is a free, open source programming language and development
+      environment.  It is a good first step to learning Java.
+    - [https://processing.org/](https://processing.org/)
+
+    - low floor, high ceiling (opengl, 3D)
+
+
+---
+
+### p5.js
+    - p5.js is a Javascript version of Processing.  It is a good entrance
+    into Javascript / web development.
+    - [https://p5js.org/](https://p5js.org/)
+
+
+---
+
+### Python
+    - [https://www.python.org/](https://www.python.org/)
+
 
 
 ---
@@ -327,22 +375,20 @@ their creations with friends and family.
 
 ---
 
-### Coding Onramps
+### Observations
 
-- Processing / Java
-    - Processing is a free, open source programming language and development
-    environment.  It is a good first step to learning Java.
-    - [https://processing.org/](https://processing.org/)
+- why learn CS when we have AI code generation?
 
-- p5.js / Javascript
-    - p5.js is a Javascript version of Processing.  It is a good entrance
-    into Javascript / web development.
-    - [https://p5js.org/](https://p5js.org/)
+we have AI translation -> should we stop teaching world languages?
+we make robots dance -> should we stop funding the dance program?
 
-- Python
-    - Python has the easiest syntax, and is used in the real world for
-    everything from data analysis to AI research.
-    - [https://www.python.org/](https://www.python.org/)
+creative writing is not word generation
+
+CS is about building and creating things
+CS is not code generation
+
+
+- intern onramping at EMI
 
 ---
 
@@ -364,5 +410,10 @@ Marlborough STEM+ Program
 __TODO__
 <img src="pix/qr_icgs2025.png" width="30%"/>
 ]
+
+- teacher resources
+- p5 examples / processing examples
+- textbook
+
 
 
