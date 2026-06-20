@@ -27,6 +27,13 @@ __TODO__
 ]]
 ]
 
+---
+
+<br/> <br/> <br/>
+<br/> <br/> <br/>
+<br/> <br/> <br/>
+### Why learn Computer Science in the age of AI?
+
 
 ---
 
@@ -65,7 +72,8 @@ __Marlborough School__
 __Ellison Medical Institute__  
 ]
 
-- Senior Software Engineer, AI and Advanced Molecular Medicine 
+- Senior Software Engineer  
+  AI and Advanced Molecular Medicine 
 
 ]
 ]
@@ -123,13 +131,13 @@ interdisciplinary
 
 * Coding in other classes
 
-    - Math (Python)
+    - Math (Scratch, Python)
 
     - Physics (Scratch)
 
     - Robotics (Java)
 
-    - Engineering and Entrepreneurship (Python, C)
+    - Engineering and Entrepreneurship (Python, Arduino)
 
     - Honors Research (Python, R)
 
@@ -137,18 +145,19 @@ interdisciplinary
 
 ### 3 Paths in Computer Science
 
-- Java (Application development)
+- __Java__ (Application development)
     - Why?
         - Android phones (e.g. FIRST FTC Robotics)
         - AP Computer Science A  
     - Entry point:  Processing
 
-- Javascript (Web development)
+- __Javascript__ (Web development)
     - Why?
-        - 
+        - Web pages, web applications
     - Entry point:  p5.js
+        - Bonus: everything is in the browser
 
-- Python (Data analysis)
+- __Python__ (Data analysis)
     - Why?
         - easiest syntax
         - commonly used in scientific data analysis and AI research
@@ -158,30 +167,56 @@ interdisciplinary
 
 ### Processing
 
-    - Entry point:  Processing is a free, open source programming language and development
-      environment.  It is a good first step to learning Java.
-    - [https://processing.org/](https://processing.org/)
 
-    - low floor, high ceiling (opengl, 3D)
+<img src="pix/logo_processing.png" width="20%"/>
+
+<br/>
+<br/>
+<br/>
+
+Processing is a free, open source programming language and development
+environment.  It is a good first step to learning Java.
+
+[https://processing.org/](https://processing.org/)
+
 
 
 ---
 
 ### p5.js
-    - p5.js is a Javascript version of Processing.  It is a good entrance
-    into Javascript / web development.
-    - [https://p5js.org/](https://p5js.org/)
+
+<img src="pix/logo_p5.png" width="10%"/>
+
+<br/>
+<br/>
+<br/>
+
+p5.js is a friendly tool for learning to code and make art.
+
+It is like Processing, but in Javascript.  It is a good entrance into web
+development.
+
+[https://p5js.org/](https://p5js.org/)
 
 
 ---
 
 ### Python
-    - [https://www.python.org/](https://www.python.org/)
+
+<img src="pix/logo_python.png" width="20%"/>
+
+<br/>
+<br/>
+<br/>
+
+Python is a general purpose programming language that has a very understandable
+syntax.
+
+[https://www.python.org/](https://www.python.org/)
 
 
 
 ---
-
 
 ### Video Games
 
@@ -199,7 +234,62 @@ Toys and games are preludes to serious ideas._
 __ Charles Eames __
 </small>
 
+---
 
+### Video Games hidden agenda
+
+.split-50[
+.column[ 
+
+__Computer science__:
+
+- variables, loops, conditions
+
+- object-oriented programming
+    - states / scenes
+    - obstacles
+    - lists of items
+
+- event-driven programming
+    - responding to user input
+
+__Mathematics__:
+
+- geometry / trigonometry
+
+- vectors and linear algebra
+
+- FFT for audio signals
+
+]
+
+.column[
+
+__Computer graphics__:
+
+- coordinate systems
+
+- RGB color
+
+- collision detection
+
+- 3D graphics
+    - coordinate transformations
+    - texture mapping
+
+__Software development__:
+
+- version control
+
+- large-scale design
+
+- debugging
+
+- user experience
+
+
+]
+]
 
 ---
 
@@ -375,45 +465,84 @@ their creations with friends and family.
 
 ---
 
-### Observations
+### Why learn Computer Science in the age of AI?
 
-- why learn CS when we have AI code generation?
+<br/>
 
-we have AI translation -> should we stop teaching world languages?
-we make robots dance -> should we stop funding the dance program?
+AI can translate any language: 
+- should we stop teaching world languages?
 
-creative writing is not word generation
+We can build robots that dance: 
+- should we stop funding dance classes?
 
-CS is about building and creating things
-CS is not code generation
+AI can write essays: 
+- should we stop teaching creative writing?
 
+<br/> <br/> 
 
-- intern onramping at EMI
+__Computer science is not code generation.__  
+
+__Computer science is about building and creating things.__
+
 
 ---
 
-### Resources and Links
+### Links
 
+<img src="pix/logo_processing.png" width="20%"/>  
+[https://processing.org/](https://processing.org/)
+<br/><br/><br/><br/>
+
+<img src="pix/logo_p5.png" width="20%"/>  
+[https://p5js.org/](https://p5js.org/)
+<br/><br/><br/><br/>
+
+<img src="pix/logo_python.png" width="20%"/>  
+[https://www.python.org/](https://www.python.org/)
+<br/><br/><br/><br/>
+
+
+---
+
+### My Resources
+
+- Processing Examples
+  [https://dkessner.github.io/ProcessingExamples/](https://dkessner.github.io/ProcessingExamples/)
+
+- p5.js Examples  
+  [https://dkessner.github.io/p5_examples/](https://dkessner.github.io/p5_examples/)
+
+- Practical Coding in Java (APCS textbook)
+  [https://dkessner.github.io/csbook/java/](https://dkessner.github.io/csbook/java/)
+
+- Practical Coding in Python
+  [https://dkessner.github.io/csbook/python/](https://dkessner.github.io/csbook/python/)
+
+- Teacher Resources  
+  [https://dkessner.github.io/TeacherResources](https://dkessner.github.io/TeacherResources)
+
+- Marlborough STEM+ Program   
+  [https://marlborough-school.github.io/stem_website](https://marlborough-school.github.io/stem_website)
+
+---
+
+### Thank you!
 
 <br/>
 
 Darren Kessner  
+_Program Head of Computer Science and Software Innovation_    
+_Marlborough School, Los Angeles_  
+
 [https://dkessner.github.io](https://dkessner.github.io)
 
 <br/>
-
-Marlborough STEM+ Program   
-[https://marlborough-school.github.io/stem_website](https://marlborough-school.github.io/stem_website)
-
-<br/>
 .center[
-__TODO__
+__TODO__ qr_code dkessner
 <img src="pix/qr_icgs2025.png" width="30%"/>
 ]
+<br/>
 
-- teacher resources
-- p5 examples / processing examples
-- textbook
 
 
 

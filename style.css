@@ -41,7 +41,11 @@ a
 
 /* columns */
 
-.column:first-of-type {float:left}
+.column:first-of-type 
+{
+    float:left;
+}
+
 .column:last-of-type {float:right}
 
 .split-40 .column:first-of-type {width: 40%}
@@ -53,5 +57,13 @@ a
 .split-60 .column:first-of-type {width: 60%}
 .split-60 .column:last-of-type {width: 40%}
 
+
+.column p {
+    padding: 5px;
+}
+
+.column ul {
+    font-size: small;
+}
 
 
