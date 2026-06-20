@@ -16,14 +16,12 @@ _Marlborough School, Los Angeles_
 
 .split-50[
 .column[ .center[
-__TODO__
-<img src="pix/ICGS_logo_Philadelphia25-768x767.jpg" width="50%"/>  
+<img src="pix/logo_icgs_toronto_2.png" width="50%"/>  
 <br/>
 <img src="pix/marlborough_logo_3.png" width="50%"/>
 ]]
 .column[ .center[
-__TODO__
-<img src="pix/qr_icgs2025.png" width="65%"/>
+<img src="pix/qr_dkessner.png" width="65%"/>
 ]]
 ]
 
@@ -205,15 +203,12 @@ development.
 
 <img src="pix/logo_python.png" width="20%"/>
 
-<br/>
-<br/>
-<br/>
-
 Python is a general purpose programming language that has a very understandable
 syntax.
 
 [https://www.python.org/](https://www.python.org/)
 
+<img src="pix/screenshot_notebooks.png" width="50%"/>
 
 
 ---
@@ -236,7 +231,7 @@ __ Charles Eames __
 
 ---
 
-### Video Games hidden agenda
+### Video Games Hidden Agenda
 
 .split-50[
 .column[ 
@@ -350,6 +345,31 @@ Arduino microcontrollers (C).
 
 ---
 
+### Math & Science Hidden Agenda
+
+
+- Linear regression
+
+
+- Linear algebra
+    - vectors
+    - dot product
+    - matrix multiplication
+    - linear transformations
+
+- Calculus 
+    - derivatives
+    - minimization / maximization of functions
+        - Newton's method
+    - multivariable functions
+        - gradients
+    - chain rule
+
+
+
+
+---
+
 ### History and Social Science
 
 World History Visual Narratives:  Students created web-based visual novels to
@@ -409,7 +429,7 @@ on social justice projects.  (Python, Processing, p5.js + HTML/CSS/Javascript)
 
 ---
 
-### Journalism
+### Journalism - Election Night
 
 Interactive election map, which our student journalists published on the
 student newspaper website, with live updates on election night. 
@@ -419,6 +439,20 @@ student newspaper website, with live updates on election night.
 
 <img src="pix/uv.jpg" width="45%"/>
 <img src="pix/uv2.png" width="45%"/>
+
+---
+
+### Journalism - Special Features
+
+Interactive data visualizations for special features on the student newspaper
+website. 
+(Python, p5.js + HTML/CSS/Javascript)
+
+<br/>
+
+<img src="pix/screenshot_uv_nsf.png" width="45%"/> 
+<img src="pix/screenshot_uv_palisades.png" width="45%"/>
+
 
 ---
 
@@ -465,6 +499,20 @@ their creations with friends and family.
 
 ---
 
+### Celebration Photo Booth
+
+One of this year's projects at the Celebration of Innovation was a photo booth
+with both traditional image filters and image filters using AI computer vision.
+(Python, p5.js + HTML/CSS/Javascript)
+
+<img src="pix/photobooth/claire_filter_1.jpg" width="40%"/>
+<img src="pix/photobooth/claire_filter_2.jpg" width="40%"/>
+<br/>
+<img src="pix/photobooth/hand.jpg" width="35%"/>
+<img src="pix/photobooth/neon.jpg" width="35%"/>
+
+---
+
 ### Why learn Computer Science in the age of AI?
 
 <br/>
@@ -482,7 +530,7 @@ AI can write essays:
 
 __Computer science is not code generation.__  
 
-__Computer science is about building and creating things.__
+__Computer science is about creating things.__
 
 
 ---
@@ -538,8 +586,7 @@ _Marlborough School, Los Angeles_
 
 <br/>
 .center[
-__TODO__ qr_code dkessner
-<img src="pix/qr_icgs2025.png" width="30%"/>
+<img src="pix/qr_dkessner.png" width="30%"/>
 ]
 <br/>
 
