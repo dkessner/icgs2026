@@ -30,7 +30,11 @@ _Marlborough School, Los Angeles_
 <br/> <br/> <br/>
 <br/> <br/> <br/>
 <br/> <br/> <br/>
-### Why learn Computer Science in the age of AI?
+
+.center[
+### Why learn Computer Science
+### in the age of AI?
+]
 
 
 ---
@@ -464,14 +468,20 @@ theater productions.
 
 .split-50[
 .column[ .center[
-<img src="pix/asdc1.jpg" width="80%"/>
-<img src="pix/asdc2.jpg" width="80%"/>
+<img src="pix/asdc1.jpg" width="70%"/>
+<img src="pix/asdc2.jpg" width="70%"/>
 ]]
 .column[ .center[
-<img src="pix/asdc3.jpg" width="80%"/>
-<img src="pix/asdc_izzi.png" width="80%"/>
+<img src="pix/asdc3.jpg" width="70%"/>
+<img src="pix/asdc_izzi.png" width="70%"/>
 ]]
 ]
+
+---
+
+### Performing Arts
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vZNSXG1-3dU?si=Q86-8qen47inyodV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
